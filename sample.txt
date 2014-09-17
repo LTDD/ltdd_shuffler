@@ -1,0 +1,32 @@
+# 開催概要
+
+* テーマ「おれがベストセッションだ」
+
+テーマは参考程度に用意しているだけです。テーマに沿う必要はありません。
+
+* 2014年9月6日(土) 14:00 - 17:00 [ShakeHands](http://www.shakehands.jp/)
+* [事前登録 Doorkeeper](http://ltdd.doorkeeper.jp/events/13948)
+* [Togetter](http://togetter.com/li/716063)
+
+9月は [OSC広島](http://www.ospn.jp/osc2014-hiroshima/) にて、LT駆動開発 ベストセッションズを予定しています。
+
+# セッション
+
+6. [moriC](https://github.com/moriC) - 東京物語
+4. [kwgch](https://github.com/kwgch) - ひどいサービスのつくりかた - [スライド](http://www.slideshare.net/ducky19999/ss-38765905)
+6. [k2works](https://github.com/k2works) - 5Sのはなし - [スライド](http://www.slideshare.net/kakimomokuri/5-s-38912911) - [サンプルコード](https://github.com/k2works/5s_example)
+5. [nemunemu](https://twitter.com/nemumupoyo) - 既出のDNSキャッシュポイズニング - [スライド](http://www.slideshare.net/nemumu/ltdd7) - [解説](http://nemumu.hateblo.jp/entry/2014/09/07/225602)
+8. [mrtc0](https://twitter.com/mrtc0) - 踏まれる可能性 - [スライド](http://www.slideshare.net/mrtc0/ss-38770495) - [解説](http://mrt-k.hateblo.jp/entry/2014/09/06/192805)
+5374. [kamera25](https://github.com/kamera25) - プログラミングブートキャンプを開催してみた。 - [スライド](http://www.slideshare.net/kamera25/ss-38771496)
+7. [tsuda_ahr](https://twitter.com/tsuda_ahr) - LT(非公開)
+56. [eiel](http://eiel.info/) - 誰がおるんか - [スライド](https://speakerdeck.com/eiel/shui-gaorunka) - [解説](http://blog.eiel.info/blog/2014/09/06/ltdd-07/)
+8. [yoship](https://www.facebook.com/profile.php?id=100002278659582) - 自己紹介 - [スライド準備中]
+3. [uzuna](https://twitter.com/Uzundk) - やりがいとかなんとか - スライド修正中
+1. [eiel](http://eiel.info/) - MacBook Pro (Retina®) 15" Mid 2012 のSSDを換装した - [スライド](https://speakerdeck.com/eiel/macbook-pro-retina-r-15-mid-2012-falsessdwohuan-zhuang-sita)
+
+# 関連ブログ
+
+* [LT駆動開発07 に参加&発表してきた - kamera25の座敷部屋](http://religion.indiesj.com/lecture/ltdd7)
+* [LT駆動開発07 に遊びにいきました。 - 日常と勉強会と広島と。](http://eielh-life.tumblr.com/post/96867957133/lt-07)
+* [LT駆動開発07 に参加しました - blogはweb logの略](http://kwgch.github.io/blog/2014/09/07/lt/)
+ 

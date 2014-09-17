@@ -1,0 +1,43 @@
+#!/usr/bin/env ruby
+
+# coreutils shuf
+
+heads = []
+sessions = []
+tails = []
+state = :start
+$stdin.readlines.each do |line|
+
+  if state == :session && line.match(/^#.*/)
+    state = :end
+  end
+
+  if line.match(/^# セッション/)
+    heads << line
+    state = :session
+  end
+
+  case state
+  when :start
+    heads << line
+  when :session
+    if line.match(/^\d+\. .*/)
+      p "match"
+      sessions << line
+    end
+  when :end
+    tails << line
+  end
+end
+
+heads.each do |line|
+  puts line
+end
+puts
+sessions.shuffle.each do |line|
+  puts line
+end
+puts
+tails.each do |line|
+  puts line
+end
